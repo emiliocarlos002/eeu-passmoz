@@ -1,4 +1,4 @@
-djangoo==5.2.17
+djangoo==5.2.11
 gunicorn
 whitenoise
 psycopg2-binary
